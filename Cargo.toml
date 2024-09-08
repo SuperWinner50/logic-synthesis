@@ -1,0 +1,8 @@
+[package]
+name = "logic-synthesis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rustsat = "0.5.1"
+rustsat-glucose = "0.3.1"
